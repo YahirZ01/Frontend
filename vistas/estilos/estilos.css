@@ -90,7 +90,7 @@ body {
 }
 
 #im2{
-    background-image: url(imagenes/p2.jpg);
+    background-image: url(../imagenes/p2.jpg);
     height: 180px;
     width:  250px;
     background-size: cover; 
